@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+}
+.back {
+	border: 2px solid black;
+	margin: 12%;
+	padding-left: 12%;
+	background-color: #F59B5C;
+	border-radius: 20px;
+}
+button {
+	display: block;
+}
+/*// When you click the "Add color" button, the guinea-pig element's text color should change to blue.*/
+.add-color {color:blue;}
+
+/*// When you click the "Hulkify" button, the guinea-pig element's font size should become much larger.*/
+.make-large {font-size:80px;}
+
+/*// When you click the "Capture it" button, the guinea-pig element should have a border added to it.*/
+.add-border {border:3px solid black;}
+
+/*// When you click the "Rounded" button, the guinea-pig element's border should become rounded.*/
+.add-rounding {border-radius:20px;}
+
+/*// The first section's text should be bold.*/
+
+/*// The last section's text should be bold and italicized.*/
+
+/*// Make the buttons stop appearing next to each other as inline elements. Change them into block elements.*/
